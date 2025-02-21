@@ -2,7 +2,7 @@ import ItemList from "../islands/item-list.tsx";
 
 export default function Index() {
   return (
-    <div className="bg-gradient-to-r from-blue-200 to-pink-200 min-h-[100dvh] p-16">
+    <div className="bg-gradient-to-r from-blue-200 to-pink-200 min-h-[100dvh] py-16 px-4 md:px-8 lg:px-16">
       <div className="max-w-3xl mx-auto">
         <h1 className="text-center mb-8 text-4xl font-bold tracking-tight">
           Baby Shower Gift Registry
