@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "baby-list",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
